@@ -1,8 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": 
-"com.lihan.mydeeplink",
-               "sha256_cert_fingerprints": 
-["6C:DD:31:FF:4F:68:5A:E7:19:1C:C0:F4:F5:99:8B:0E:D3:05:B8:1C:8F:0E:BF:07:D5:EF:C2:FD:55:6A:47:AF"] 
-}
+  "target" : { "namespace": "android_app", "package_name": "com.lihan.mydeeplink",
+               "sha256_cert_fingerprints": ["6C:DD:31:FF:4F:68:5A:E7:19:1C:C0:F4:F5:99:8B:0E:D3:05:B8:1C:8F:0E:BF:07:D5:EF:C2:FD:55:6A:47:AF"] }
 }]
